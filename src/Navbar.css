@@ -1,0 +1,19 @@
+.navbarLinks li {
+  margin: 0px 15px;
+  list-style-type: none;
+  width: auto;
+}
+
+.navbarButton {
+  background: #cf1fbe;
+  color: white;
+  border-radius: 5px;
+  width: 160px;
+  height: 52px;
+  border: none;
+}
+
+.brandSpan {
+  font-size: 10px;
+  color: #ff7171;
+}

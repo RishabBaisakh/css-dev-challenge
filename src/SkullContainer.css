@@ -1,0 +1,17 @@
+.skull {
+  border-radius: 15px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.skullBar {
+  padding: 30px;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.secondaryTitle {
+  color: #a1e571;
+}
